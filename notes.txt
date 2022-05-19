@@ -1,0 +1,21 @@
+* Adicionar os $BASE_URL nos links 
+* Deixar o site responsivo (mediaquerie)
+
+
+Desenvolvi esse projeto durante um curso de PHP, 
+onde o principal objetivo era colocar em pratica o que foi aprendido ao longo
+do curso sobre PHP.
+
+Uma agenda onde desenvolvi desde a estrutura do Banco de Dados com os campos que achei necessario.
+Tambem trabalhei com o front-end utilizando o bootstrap para criar o layout.
+Na minha home desenvolvi a funcionalidade de "puxar" os dados do Banco, onde o usuario, consegue
+ver toda a lista de contatos da sua agenda, adicionar novos contatos de maneira simples e se 
+necessario editar ou até mesmo excluir os contatos existentes deixando o projeto inteligente. 
+Alem disso adicionei a funcionalidade de "Darkmode" ao longo da aplicação com JavaScript, visto que  
+cada vez mais tem se tornado essencial nos sites e Apps.
+
+Tambem criei a conexão com o Banco, deixei separado na pasta "config",
+ pois caso queira conectar em um outro Banco é só ir no arquivo connect e alterar alguns dos campos.
+
+Neste projeto aprendi a trabalhar PHP com Banco de Dados,
+realizando todas as operaçoes principais do Banco(CRUD).
