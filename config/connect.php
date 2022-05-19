@@ -1,9 +1,9 @@
 <?php
 
-    $host = "127.0.0.1:3306";
-    $dbname = "agenda";
-    $user = "root";
-    $password = "Santos@2807";
+    $host = "myhost";
+    $dbname = "mydb";
+    $user = "";
+    $password = "";
 
     try{
         $conn = new PDO("mysql:host=$host; dbname=$dbname", $user, $password);
