@@ -18,8 +18,10 @@ necessario editar ou até mesmo excluir os contatos existentes deixando o projet
 
 * PHP - Principal linguagem
 * HTML - Usada juntamente com PHP
-* Mysql - Banco de dados
+* CSS - Usada para adicionar estilo ao HTML
 * JavaScript - Usada para o Dark Mode
+* Mysql - Banco de dados
+
 
 ---
 ⌨️ com ❤️ por [Henrique da Silva Sousa](https://www.linkedin.com/in/henrique-da-silva-sousa-2a077622b/)😊
