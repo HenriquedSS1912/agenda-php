@@ -2,8 +2,11 @@
 
 Neste projeto aprendi a trabalhar PHP com Banco de Dados, realizando todas as operaçoes principais de um Banco (CRUD).
 
+## 💻 Light Mode
+
 ![agenda](https://user-images.githubusercontent.com/86082129/169408799-a7ac307f-a1ec-404c-b8c5-0a13bb66e889.png)
 
+## 💻 Dark Mode
 ![agenda-dark](https://user-images.githubusercontent.com/86082129/169408806-d631e524-e0e9-4d55-bf58-ef1536a717a3.png)
 
 
