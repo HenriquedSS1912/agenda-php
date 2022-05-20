@@ -1,6 +1,6 @@
 # Agenda com PHP
 
-Neste projeto aprendi a trabalhar PHP com Banco de Dados, realizando todas as operaçoes principais de um Banco (CRUD).
+Neste projeto aprendi a trabalhar PHP junto com Banco de Dados, realizando todas as operaçoes principais de um Banco (CRUD).
 
 ## 💻 Light Mode
 
